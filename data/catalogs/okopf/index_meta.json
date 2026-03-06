@@ -1,0 +1,11 @@
+{
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "dimension": 384,
+  "count": 123,
+  "source": "/Users/datanomica/IdeaProjects/datanewton-checom/common/src/main/resources/okopf.csv",
+  "columns": {
+    "code": "10000",
+    "name": "ОРГАНИЗАЦИОННО-ПРАВОВЫЕ ФОРМЫ ЮРИДИЧЕСКИХ ЛИЦ, ЯВЛЯЮЩИХСЯ КОММЕРЧЕСКИМИ КОРПОРАТИВНЫМИ ОРГАНИЗАЦИЯМИ",
+    "description": null
+  }
+}

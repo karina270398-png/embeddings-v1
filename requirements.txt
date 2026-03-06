@@ -1,0 +1,11 @@
+fastembed
+pandas
+pyarrow
+numpy
+rich
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+streamlit
+openpyxl

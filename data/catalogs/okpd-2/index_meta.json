@@ -1,0 +1,11 @@
+{
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "dimension": 384,
+  "count": 20626,
+  "source": "/Users/datanomica/IdeaProjects/datanewton-checom/common/src/main/resources/okpd-2.csv",
+  "columns": {
+    "code": "code",
+    "name": "name",
+    "description": null
+  }
+}
